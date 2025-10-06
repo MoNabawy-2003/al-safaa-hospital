@@ -1,0 +1,5 @@
+{
+  "name": "Al Safaa Hospital",
+  "description": "An intelligent monitoring and management platform for the Al Safaa Hospital environment, featuring role-based dashboards for Patients, Doctors, and Hospital Management to provide personalized care monitoring and operational analytics.",
+  "requestFramePermissions": []
+}
