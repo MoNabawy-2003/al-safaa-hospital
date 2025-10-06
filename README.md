@@ -1,5 +1,3 @@
-Of course, here is a corrected and refined version of your project description.
-
 # Smart Hospital Monitoring and Management System (SHMMS)
 
 An intelligent, full-stack web platform for modern healthcare environments. SHMMS provides role-based dashboards for patients, doctors, and hospital management, enabling personalized care monitoring, streamlined communication, and data-driven operational analytics.
